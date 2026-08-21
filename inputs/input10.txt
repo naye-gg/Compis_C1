@@ -1,0 +1,1 @@
+((max(sqrt(abs(4.5)), x2**2) - min(abs(3), x4**3))**2 + sqrt(abs(8 - x6))) / max(abs(x7), sqrt(abs(x8)))

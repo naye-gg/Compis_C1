@@ -1,0 +1,1 @@
+abs(sqrt(abs(x1**2 + x2**2)) - max(x3**2, min(x4**3, abs(x5))))**2 + sqrt(abs(x6 - x7)**3)
