@@ -2,3 +2,10 @@
 a.out
 *.o
 
+# Fuentes y auxiliares de LaTeX: al repo sube solo el PDF del informe
+documentacion/*.tex
+documentacion/*.png
+documentacion/*.aux
+documentacion/*.log
+documentacion/*.out
+documentacion/*.toc

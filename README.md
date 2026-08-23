@@ -63,6 +63,13 @@ python3 test_parser.py
 Verifica los 10 inputs, 5 expresiones válidas adicionales y 6 inválidas
 (errores léxicos, sintácticos y de aridad como `sqrt(2, 3)` o `max(2)`).
 
+## Documentación
+
+El informe de desarrollo está en
+[`documentacion/informe.pdf`](documentacion/informe.pdf). Explica en qué orden se
+modificó cada archivo y por qué, los errores encontrados durante el proceso y las
+pruebas realizadas.
+
 ## Archivos
 
 | Archivo | Rol |
