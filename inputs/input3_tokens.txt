@@ -1,0 +1,13 @@
+Scanner
+
+TOKEN(NUM, "50.5")
+TOKEN(PLUS, "+")
+TOKEN(LPAREN, "(")
+TOKEN(NUM, "10.25")
+TOKEN(MUL, "*")
+TOKEN(NUM, "3")
+TOKEN(RPAREN, ")")
+TOKEN(END)
+
+Scanner exitoso
+

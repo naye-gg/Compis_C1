@@ -1,0 +1,19 @@
+Scanner
+
+TOKEN(FUNC, "max")
+TOKEN(LPAREN, "(")
+TOKEN(NUM, "4")
+TOKEN(COMMA, ",")
+TOKEN(NUM, "7")
+TOKEN(RPAREN, ")")
+TOKEN(PLUS, "+")
+TOKEN(FUNC, "min")
+TOKEN(LPAREN, "(")
+TOKEN(NUM, "2")
+TOKEN(COMMA, ",")
+TOKEN(NUM, "6")
+TOKEN(RPAREN, ")")
+TOKEN(END)
+
+Scanner exitoso
+

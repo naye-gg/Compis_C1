@@ -1,0 +1,30 @@
+Scanner
+
+TOKEN(LPAREN, "(")
+TOKEN(FUNC, "max")
+TOKEN(LPAREN, "(")
+TOKEN(NUM, "20")
+TOKEN(COMMA, ",")
+TOKEN(NUM, "15")
+TOKEN(COMMA, ",")
+TOKEN(NUM, "30")
+TOKEN(RPAREN, ")")
+TOKEN(PLUS, "+")
+TOKEN(FUNC, "min")
+TOKEN(LPAREN, "(")
+TOKEN(NUM, "5")
+TOKEN(COMMA, ",")
+TOKEN(NUM, "8")
+TOKEN(COMMA, ",")
+TOKEN(NUM, "2")
+TOKEN(RPAREN, ")")
+TOKEN(RPAREN, ")")
+TOKEN(DIV, "/")
+TOKEN(FUNC, "abs")
+TOKEN(LPAREN, "(")
+TOKEN(NUM, "5")
+TOKEN(RPAREN, ")")
+TOKEN(END)
+
+Scanner exitoso
+

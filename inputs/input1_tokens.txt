@@ -1,0 +1,25 @@
+Scanner
+
+TOKEN(NUM, "2")
+TOKEN(POW, "**")
+TOKEN(NUM, "5")
+TOKEN(PLUS, "+")
+TOKEN(FUNC, "sqrt")
+TOKEN(LPAREN, "(")
+TOKEN(NUM, "5")
+TOKEN(RPAREN, ")")
+TOKEN(PLUS, "+")
+TOKEN(FUNC, "sqrt")
+TOKEN(LPAREN, "(")
+TOKEN(LPAREN, "(")
+TOKEN(NUM, "4")
+TOKEN(PLUS, "+")
+TOKEN(NUM, "5")
+TOKEN(RPAREN, ")")
+TOKEN(MUL, "*")
+TOKEN(NUM, "3")
+TOKEN(RPAREN, ")")
+TOKEN(END)
+
+Scanner exitoso
+

@@ -2,7 +2,3 @@
 a.out
 *.o
 
-# Salidas generadas por el analizador
-*_tokens.txt
-*_ast.dot
-*_ast.png
